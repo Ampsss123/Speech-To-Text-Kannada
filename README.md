@@ -15,11 +15,13 @@ speech_recognition
 tkinter (included in standard Python installations)
 python-docx
 
+* Word Document Not Saving: Ensure you have permission to save files in the specified directory.
+  
 # Installation
-Install Python Dependencies:
-~~~ pip install speechrecognition python-docx ~~~
+~~~ Install Python Dependencies:
+pip install speechrecognition python-docx
 
 Execute the script using Python:
 python kannada_speech_to_text.py
+~~~
 
-* Word Document Not Saving: Ensure you have permission to save files in the specified directory. 
