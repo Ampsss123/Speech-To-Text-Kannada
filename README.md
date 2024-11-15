@@ -21,4 +21,4 @@ pip install speechrecognition python-docx
 Execute the script using Python:
 python kannada_speech_to_text.py
 
-* Word Document Not Saving: Ensure you have permission to save files in the specified directory. *
+* Word Document Not Saving: Ensure you have permission to save files in the specified directory. 
