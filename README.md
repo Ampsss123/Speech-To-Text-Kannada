@@ -22,6 +22,6 @@ python-docx
 pip install speechrecognition python-docx
 
 Execute the script using Python:
-python kannada_speech_to_text.py
+python try.py
 ~~~
 
