@@ -15,11 +15,10 @@ speech_recognition
 tkinter (included in standard Python installations)
 python-docx
 # Installation
-Install Python Dependencies: Open a terminal/command prompt and run:
+Install Python Dependencies:
 pip install speechrecognition python-docx
 
-Run the Application: Execute the script using Python:
-
+Execute the script using Python:
 python kannada_speech_to_text.py
 
-Word Document Not Saving: Ensure you have permission to save files in the specified directory.
+* Word Document Not Saving: Ensure you have permission to save files in the specified directory. *
