@@ -14,9 +14,10 @@ Required Python libraries:
 speech_recognition
 tkinter (included in standard Python installations)
 python-docx
+
 # Installation
 Install Python Dependencies:
-pip install speechrecognition python-docx
+'''pip install speechrecognition python-docx'''
 
 Execute the script using Python:
 python kannada_speech_to_text.py
